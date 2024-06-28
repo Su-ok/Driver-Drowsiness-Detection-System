@@ -11,5 +11,5 @@
 8. "image.jpg" is the image file of the frame that gets saved once the frame is closed.
 
 
-# **Tip**
+## **Tip**
 - Can refer to main branch or [here](https://github.com/Su-ok/Driver-Drowsiness-Detection-System) for better understanding of the project
