@@ -9,3 +9,7 @@
 6. "model.py" file contains the program through which the classification model is built by training on the available dataset. You could see the implementation of convolutional neural network in this file.
 7. "drowsiness detection.py" is the main file of our project. To start the detection procedure, we have to run this file.
 8. "image.jpg" is the image file of the frame that gets saved once the frame is closed.
+
+
+# **Tip**
+- Can refer to main branch or [here](https://github.com/Su-ok/Driver-Drowsiness-Detection-System) for better understanding of the project
