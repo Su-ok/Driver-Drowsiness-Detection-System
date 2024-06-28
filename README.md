@@ -1,5 +1,8 @@
+## **Tip**
+- Can refer to main branch or [here](https://github.com/Su-ok/Driver-Drowsiness-Detection-System) for better understanding of the project
+
 # Driver-Drowsiness-Detection-System
-# Driver Drowsiness Detection System to avoid accidents due to drowsiness
+## Driver Drowsiness Detection System to avoid accidents due to drowsiness
 
 1. Installation of the required module:- OpenCV, keras, TensorFlow, Pygame.
 2. Creation of the dialog box
@@ -11,5 +14,3 @@
 8. "image.jpg" is the image file of the frame that gets saved once the frame is closed.
 
 
-## **Tip**
-- Can refer to main branch or [here](https://github.com/Su-ok/Driver-Drowsiness-Detection-System) for better understanding of the project
