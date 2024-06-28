@@ -1,5 +1,5 @@
 # **NOte**
-- Can refer to main branch or [here](https://github.com/Su-ok/Driver-Drowsiness-Detection-System) for better understanding of the project
+- Should refer to main branch or [here](https://github.com/Su-ok/Driver-Drowsiness-Detection-System) for better understanding of the project
 
 # Driver-Drowsiness-Detection-System
 ### Driver Drowsiness Detection System to avoid accidents due to drowsiness
