@@ -1,6 +1,3 @@
-# **Short Change**
-- Transferred files from master to main on 28-06-2024
-
 # Project Components Overview
 
 1. **Modules Installation**:
@@ -26,3 +23,6 @@
 
 8. **Image File**:
    - `image.jpg` captures a frame and saves it when the procedure ends.
+
+# **Short Change**
+- Transferred files from master to main on 28-06-2024
